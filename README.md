@@ -7,7 +7,7 @@ Global warming is a top topic of common concern. It is important to understand h
 
 (1) establish models that can predict earth surface temperature based on various time series modeling;
 
-(2) improve the forecasts by various models and by multivariate times series technics (exogenous features, cointegration, Granger causality analysis, VECM, additional regressors, etc); 
+(2) improve the forecasts by various models and by multivariate times series technics.
 
 (3) analyze the relationship (cointegration) between temperature and co2 emission; 
 
